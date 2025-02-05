@@ -4,12 +4,12 @@ Dobrodošli na zvaničnu web stranicu naše pekare! Ovdje možete saznati više 
 
 ## Opis projekta
 
-Ova web stranica je osmišljena da korisnicima omogući jednostavan pristup informacijama o našim proizvodima, uslugama i promocijama. Na stranici možete pregledati našu ponudu, saznati više o procesu proizvodnje, kao i lako naručiti proizvode online.
+Ova web stranica je osmišljena da korisnicima omogući jednostavan pristup informacijama o našim proizvodima, uslugama i promocijama. Na stranici možete pregledati našu ponudu, saznati više o procesu proizvodnje, kao i lako naručiti proizvode.
 
 ## Karakteristike
 
 - **Interaktivni meni**: Pregledajte naš širok asortiman proizvoda, od hleba do kolača.
-- **Online naručivanje**: Naručite proizvode online i odaberite opciju dostave ili ličnog preuzimanja.
+- **Online naručivanje**: Naručite proizvode i odaberite opciju dostave ili ličnog preuzimanja.
 - **Responzivni dizajn**: Stranica je prilagođena za različite uređaje (desktop, tablet, mobilni).
 - **Galerija proizvoda**: Pogledajte slike naših svežih proizvoda.
 - **Kontakt forma**: Kontaktirajte nas lako putem online forme.
@@ -21,8 +21,6 @@ Web stranica je razvijena korišćenjem sledećih tehnologija:
 - **CSS3** za dizajn i stilizaciju
 - **JavaScript** za dinamičke elemente i interaktivnost
 - **React** za frontend razvoj
-- **Node.js** za backend (ako je potrebno)
-- **MongoDB** (ili druga baza podataka) za čuvanje podataka o korisnicima i narudžbinama (ako je potrebno)
 
 ## Instalacija
 
@@ -35,7 +33,7 @@ Ako želite da pokrenete ovu web stranicu na svom računaru, pratite sledeće ko
 
 2. Instalirajte potrebne zavisnosti:
     ```bash
-    cd pekara-web
+    cd pekara
     npm install
     ```
 
@@ -53,11 +51,5 @@ Ako želite da pokrenete ovu web stranicu na svom računaru, pratite sledeće ko
 3. Implementirajte promene.
 4. Posaljite pull request sa opisom vaših izmena.
 
-## Licenca
 
-Ovaj projekat je otvorenog koda i licenciran je pod [MIT Licencom](LICENSE).
-
-## Kontakt
-
-Ako imate bilo kakvih pitanja ili sugestija, slobodno nas kontaktirajte putem email-a: [info@pekara.com](mailto:info@pekara.com).
 
